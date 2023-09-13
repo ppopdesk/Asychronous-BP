@@ -1,0 +1,10 @@
+implementation=CPython
+version=3.10
+shared=true
+abi3=false
+lib_name=python3.10
+lib_dir=/Library/Frameworks/Python.framework/Versions/3.10/lib
+executable=/Users/vijayanand/Desktop/kyber_attacks_code/improved_decryption_error_recovery/.env/bin/python
+pointer_width=64
+build_flags=WITH_THREAD
+suppress_build_script_link_lines=false
